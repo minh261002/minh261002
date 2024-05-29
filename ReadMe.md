@@ -14,3 +14,7 @@ Hello! I'm Minh, a web developer with a passion for creating optimized, independ
 ![](https://github-readme-stats.vercel.app/api?username=minh261002&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minh261002&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minh261002&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
