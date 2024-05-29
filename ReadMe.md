@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cong+Minh!;" />
+</h1>
+
 # 💫About Me :
 Hello! I'm Minh, a web developer with a passion for creating optimized, independent online experiences. With responsive design thinking and user experience first, I always aim to deliver products that are high value and easy to use.
 
