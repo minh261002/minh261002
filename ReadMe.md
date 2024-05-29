@@ -5,6 +5,10 @@
 # 💫About Me :
 Hello! I'm Minh, a web developer with a passion for creating optimized, independent online experiences. With responsive design thinking and user experience first, I always aim to deliver products that are high value and easy to use.
 
+<p align="center">
+  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+</p>
+
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/minn2002) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100051915323590) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/minn2002/) 
 
