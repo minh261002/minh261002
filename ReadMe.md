@@ -71,7 +71,7 @@ secretWeapon := "Unlimited supply of coffee and determination"
 </div>
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minh261002&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minh261002&theme=algolia" alt="Profile Details" />
 </div>
 
 <div align="left">
