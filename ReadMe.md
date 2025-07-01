@@ -9,8 +9,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=minh261002&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge&logo=code" alt="Experience" />
-  <img src="https://img.shields.io/badge/Level-Senior%20Developer-orange?style=for-the-badge&logo=star" alt="Level" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge&logo=code" alt="Experience" />
+  <img src="https://img.shields.io/badge/Level-Middle%20Developer-orange?style=for-the-badge&logo=star" alt="Level" />
 </div>
 
 <div align="center">
